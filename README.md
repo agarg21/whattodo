@@ -1,2 +1,2 @@
 # whattodo
-To do list with whatsapp bot
+To do list with whatsapp bot!
